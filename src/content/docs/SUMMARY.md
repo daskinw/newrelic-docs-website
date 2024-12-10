@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Get started with New Relic](/new-relic-solutions/get-started/intro-new-relic.mdx)
-* [Explore our tutorials](/new-relic-solutions/tutorial-landing-page.mdx)
+* [AI monitoring](README.md)
+  * [Compatibility and requirements for AI monitoring](ai-monitoring/compatibility-and-requirements-for-ai-monitoring.md)
