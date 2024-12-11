@@ -22,7 +22,7 @@ You can access all this information and more from the New Relic platform, then c
 
 AI monitoring can help you answer critical questions about AI app performance: are your end users waiting too long for a response? Is there a recent spike in token usage? Are there patterns of negative user feedback around certain topics? With AI monitoring, you can see data specific to the AI-layer:
 
-* [Identify errors in specific prompt and response interactions](https://docs.newrelic.com/docs/ai-monitoring/explore-ai-data/view-ai-responses/) from the response table. If you're looking to make improvements to your AI models, [learn how to analyze your model with trace-level data](https://docs.newrelic.com/docs/ai-monitoring/explore-ai-data/view-ai-responses/#ai-response-trace-view).
+* [Identify errors in specific prompt and response interactions](https://docs.newrelic.com/docs/ai-monitoring/explore-ai-data/view-ai-responses/) from the response table. If you're&#x20;
 * If you're using different models across app environments, you can [compare the cost and performance of your apps before deploying](https://docs.newrelic.com/docs/ai-monitoring/view-ai-data/#model-comparison).
 * Are you concerned about data compliance? [Learn how to create drop filters](https://docs.newrelic.com/docs/ai-monitoring/drop-sensitive-data/) to drop sensitive data before you send it to New Relic.
 
