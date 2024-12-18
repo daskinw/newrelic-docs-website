@@ -3,7 +3,7 @@
 ## Monitor your data
 
 * [AI inspecting](README.md)
-  * [Compatibility and requirements for AI monitoring](monitor-your-data/ai-inspecting/compatibility-and-requirements-for-ai-monitoring.md)
+  * [Compatibility testing of URLs](monitor-your-data/ai-inspecting/compatibility-testing-of-urls.md)
 
 ***
 
